@@ -1,13 +1,14 @@
 # irods_ondemand
 
-An iRODS browser as an  OpenOnDemand Passenger App.
+An iRODS browser as an OpenOnDemand Passenger App.
 
 - [x] Direct iRODS Access within OpenOnDemand
 - [x] HPC and Data Management all in one place
 - [x] Easy Installation and Deployment
 - [x] No Docker, Ansible, etc... needed
-- [x] No Modifications Needed to your current iRODS Instance
-- [x] iRODS Site Configuration
+- [x] Works with existing iRODS Instances
+- [x] Configuration via simple text file
+- [x] iRODS Login via ``iinit``
 - [x] Easily Hackable with Python iRODS Client (PRC)
 - [x] Python v3.6+
 - [x] iRODS v4.3.0
