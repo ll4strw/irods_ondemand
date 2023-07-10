@@ -15,6 +15,9 @@ An iRODS browser as an OpenOnDemand Passenger App.
 - [x] No Custom iRODS PEPs needed
 - [x] Data Archive with DOI (optional)
 
+### Demo
+![irods_ood1_gif](./screenshots/irods_ood1.gif)
+
 ### Screenshots
 
 ![browser](./screenshots/irods_ondemand1.png)
